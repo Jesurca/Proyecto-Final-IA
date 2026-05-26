@@ -1,0 +1,14 @@
+# Ignore Python bytecode and cache folders
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore editor metadata
+*.swp
+*.swo
+.DS_Store
